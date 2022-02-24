@@ -2,7 +2,7 @@
 Server Cloner Self Bot
 credit to the owner xD
 ==========================================================================
-Tutorial - (soon)
+Tutorial - https://www.youtube.com/watch?v=APp-KeJFzvs
 
 
 
